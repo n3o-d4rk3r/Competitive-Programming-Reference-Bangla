@@ -1,5 +1,7 @@
 # Online-Judge-Problem-Solved
-Love to nickname N3o D4rk3r and i am a simple bangladeshi programmer but love to programming and problem solveing(which problem? I don't know this answer but i want to solved any problem. I will shareing solutions for judge site(URI Online, Virtual Judge, TopCoder, CodeChef, HackerRank) challenges and using for C, C#, JavaScript, Swift, Python & Java. Moreover, Algorithms, Data Structures, Math, Database etc.
+
+#About me:
+Love to nickname N3o D4rk3r. I am a very enthusiastic problem solver to online judge site and passionate about Back-End Developer, Coding, mostly love Java & Python. So, I will shareing solutions for judge site(URI Online, Virtual Judge, TopCoder, CodeChef, HackerRank) challenges and using for C, C#, JavaScript, Swift, Python & Java. Moreover, Algorithms, Data Structures, Math, Database etc and love always open to learning new technologies.
 
 <h3>Online Judge Site List:</h3>
 
