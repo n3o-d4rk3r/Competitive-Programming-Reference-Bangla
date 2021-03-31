@@ -1,5 +1,4 @@
-# Abouts:
-Love to nickname [N3o D4rk3r](https://facebook.com/n3o-d4rk3r). I am a very enthusiastic problem solver to online judge site and passionate about Back-End Developer, Coding, mostly love Java & Python. So, I will shareing solutions for judge site(URI Online, Virtual Judge, TopCoder, CodeChef, HackerRank) challenges and using for C++ & Java. Moreover, Algorithms, Data Structures, Math, Database etc and love always open to learning new technologies.
+Love to nickname [N3o D4rk3r](https://facebook.com/n3o-d4rk3r). I am a very enthusiastic problem solver to online judge site and passionate about Back-End Developer, Coding, mostly love C++ & Java. So, I think I should share this code. Maybe these could be useful for someone. These codes were written during my student life.
 
 # বাংলায় প্রোগ্রামিং রিসোর্সসমূহ
 
