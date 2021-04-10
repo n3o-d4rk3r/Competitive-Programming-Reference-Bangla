@@ -1,6 +1,13 @@
 #include<iostream>
 using namespace std;
-
+/*
+*   SUB-Subsequence
+*   Team Member:
+*   Aryan Kabir
+*   Nymul Islam Moon
+*   Majharul Islam
+*
+*/
 int main()
     {
 
