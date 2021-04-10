@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 
 using namespace std;
-
 /*
 *   SUB-Subsequence
 *   Team Member:
@@ -10,7 +9,6 @@ using namespace std;
 *   Majharul Islam
 *
 */
-
 int main()
 {
     long long n, t, x;
