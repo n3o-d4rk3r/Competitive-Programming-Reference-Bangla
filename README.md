@@ -687,3 +687,4 @@ Love to nickname [N3o D4rk3r](https://n3o-d4rk3r.github.io/). I am a very enthus
 * [BSADD Community, BUET Youtube Channel](https://www.youtube.com/channel/UCSEEEKX5ts05xGkdeZJIvmw)
 * [বাংলা টেক টক পডকাস্ট](https://banglatechtalk.com)
 * [Klassroom, Youtube Channel](https://www.youtube.com/c/KlassroomGlobal/)
+* [Aryan Kabir](https://youtube.com/c/aryankabir)
