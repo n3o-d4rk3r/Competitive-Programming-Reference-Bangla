@@ -1,5 +1,3 @@
-Love to nickname [N3o D4rk3r](https://n3o-d4rk3r.github.io/). I am a very enthusiastic problem solver to online judge, acm icpc and passionate about back-end, android developer, coding, mostly love C++ & Java.
-
 # বাংলায় প্রোগ্রামিং রিসোর্সসমূহ
 
 > বাংলায় সহজবোধ্য প্রোগ্রামিং টিউটরিয়াল, রেফারেন্স এবং অন্যান্য প্রয়োজনীয় লিংকের তালিকা
