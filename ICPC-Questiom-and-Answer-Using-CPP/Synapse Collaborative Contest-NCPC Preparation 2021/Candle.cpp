@@ -2,11 +2,8 @@
 using namespace std;
 
 /*
-Team: SUB-SUBSequence
-Member:
-    Aryan Kabir
-    Anujit Deb
-    Majharul Islam
+Team Name: SUB-SUBSequence
+Aryan Kabir
 */
 
 int main()
