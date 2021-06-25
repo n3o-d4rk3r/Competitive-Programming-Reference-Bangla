@@ -2,7 +2,7 @@
 using namespace std;
 
 /*
-Team Name: SUB-SUBSequence
+Team: SUB-SUBSequence
 Aryan Kabir
 */
 
