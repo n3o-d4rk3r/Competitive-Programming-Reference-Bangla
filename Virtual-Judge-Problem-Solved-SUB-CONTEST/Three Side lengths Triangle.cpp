@@ -7,14 +7,12 @@ using namespace std;
 *   Aryan Kabir
 *   Nymul Islam Moon
 *   Majharul Islam
-*
 */
 int main()
 {
     int sidea, sideb, sidec;
-
     cin>>sidea>>sideb>>sidec;
-
+    
     if(sidea==sideb && sideb==sidec)
     {
         cout<<"Equilateral Triangle"<<endl;
@@ -27,6 +25,5 @@ int main()
     {
         cout<<"Bad Triangle"<<endl;
     }
-
     return 0;
 }
