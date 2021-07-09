@@ -33,6 +33,7 @@ int main()
     printf("Enter the Total Number of Courses:");
     scanf("%d", &number_of_courses); 
     printf("Enter the Credit Per Course:");
+ 
     scanf("%d", &credits); 
     total_credits = number_of_courses*credits;
     printf("Total Credits = %d\n", total_credits);
