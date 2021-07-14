@@ -6,6 +6,7 @@
 * CSE, SUB, BD
 *
 */
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -82,26 +83,21 @@ template<typename T>void sortV(vector<T>&vec){ sort(vec.begin(),vec.end()) ; }
 template<typename T>void rSortV(vector<T>&vec){ sort(vec.begin(),vec.end(), greater<T>());}
 template<typename T>bool bSearchV(vector<T>&vec,T key){return binary_search(vec.begin(),vec.end(),key);}
 
-void pre(){  
-	int a, b, n;	
-	cin>>n>>a>>b;
-	string s;
-	cin>>s;
-	int ans=a, cnt=1, CNT=0;
-	
-		for(int i=1;i<n;i++){
-			if(s[i]==s[0] && s[i-1]!=s[0])
-				cnt++;
-			if(s[i]!=s[0] && s[i-1] == s[0])
-				CNT++;
+void pre(){   
+    int n;
+    int s,cnt=0;
+		cin>>s;
+		for(int i=1;i<=100;i++){
+			cnt+=(2*i-1);
+			if(cnt>=s){
+				cout<<i<<endl;
+				break;
+			}
 		}
-		if(cnt==n)cnt--;
-		if(CNT==n)CNT--;
-		cout<<ans*n+max(n*b,max((cnt+1)*b,(CNT+1)*b))<<"\n";
-	}
-
+}
     
 int main() {
+
 	int t;
 	cin>>t;
 	while(t--)
