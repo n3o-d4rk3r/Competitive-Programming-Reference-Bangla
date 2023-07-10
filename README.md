@@ -7,12 +7,14 @@
 ### ব্যাসিক
 * [বিগ "O" নোটেশন](http://www.shafaetsplanet.com/planetcoding/?p=1313)  - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [কমপ্লেক্সিটি ক্লাস(P-NP, টুরিং মেশিন ইত্যাদি)](http://www.shafaetsplanet.com/planetcoding/?p=1642) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* [অ্যালগরিদম, কমপ্লেক্সিটি এনালাইসিস ও নোটেশন](https://jakir.me/%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-%e0%a6%95%e0%a6%ae%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a7%87%e0%a6%95%e0%a7%8d%e0%a6%b8%e0%a6%bf%e0%a6%9f%e0%a6%bf/) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 
 ### ডাটা স্ট্রাকচার
 
 * অ্যাারে (Array)
     * [অ্যারে ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/array) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
     * [অ্যারে কমপ্রেশন/ম্যাপিং](http://www.shafaetsplanet.com/planetcoding/?p=1388) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+    * [সি প্রোগ্রামিং এ অ্যারে](https://jakir.me/c-array/) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 
 * লিংকড লিস্ট (Linked List)
     * [লিংকড লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=2689) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
