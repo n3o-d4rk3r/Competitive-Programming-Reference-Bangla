@@ -2,8 +2,6 @@
 > বাংলায় সহজবোধ্য প্রোগ্রামিং টিউটরিয়াল, রেফারেন্স এবং অন্যান্য প্রয়োজনীয় লিংকের তালিকা
 ---
 
-
-
 > <b>[Top 10 Essential Book Bundles for Programmers](https://www.patreon.com/kabirsplanet/shop/mastering-competitive-programming-book-138388?source=storefront)</b>
 
 ## এলগোরিদম
