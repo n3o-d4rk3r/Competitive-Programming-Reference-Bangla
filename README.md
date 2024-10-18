@@ -3,7 +3,6 @@
 ---
 > <b>[Top 10 Essential Book Bundles for Programmers](https://www.patreon.com/kabirsplanet/shop/mastering-competitive-programming-book-138388?source=storefront)</b>
 
-
 ## এলগোরিদম
 
 ### ব্যাসিক
